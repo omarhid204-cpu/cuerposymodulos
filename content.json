@@ -1,191 +1,48 @@
 {
-  "seo": {
-    "title": "Cuerpos y Módulos para Transmisiones Automáticas | CuerposyModulos.mx",
-    "description": "Especialistas en cuerpos de válvulas, módulos, sensores, arneses y electrónica para transmisiones automáticas. Más de 500 piezas disponibles. Envíos a todo México.",
-    "keywords": "cuerpo de válvulas, módulo tcm, módulo tcu, sensores de transmisión, sensor tr, arnés de transmisión, electrónica para transmisión, refacciones transmisión automática",
-    "og_image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=1200&h=630&fit=crop"
-  },
-  "marca": {
-    "nombre": "CuerposyModulos.mx",
-    "tagline": "Especialistas en Electrónica para Transmisiones Automáticas",
-    "logo_texto": "CuerposyModulos",
-    "logo_sufijo": ".mx",
-    "anios_experiencia": "20+",
-    "ciudad": "Ciudad de México"
-  },
-  "whatsapp": {
-    "numero": "5255879262820",
-    "numero_display": "+52 55 8792 6282",
-    "mensaje_default": "Hola, necesito ayuda para identificar una pieza para mi transmisión automática.",
-    "mensaje_hero": "Hola, me interesa cotizar una pieza para mi transmisión automática. ¿Pueden ayudarme?",
-    "mensaje_contacto": "Hola, me gustaría recibir asesoría sobre piezas para transmisión automática.",
-    "mensaje_flotante": "Hola, necesito información sobre piezas para transmisión automática."
-  },
-  "contacto": {
-    "telefono": "+52 55 8792 6282",
-    "telefono_link": "tel:+525587926282",
-    "email": "contacto@cuerposymodulos.mx",
-    "direccion": "Dr. Andrade 400, Buenos Aires, Cuauhtémoc, 06780 Ciudad de México, CDMX",
-    "maps_url": "https://maps.app.goo.gl/atsGzeRmdE8ZDXYS9?g_st=ic",
-    "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.3!2d-99.155!3d19.423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4b73e7af4b%3A0x507de3cf1c0d4f4b!2sDr.%20Andrade%20400%2C%20Buenos%20Aires%2C%20Cuauht%C3%A9moc%2C%2006780%20Ciudad%20de%20M%C3%A9xico!5e0!3m2!1ses!2smx!4v1700000000000",
-    "horario_semana": "Lunes a Viernes: 10:00 AM – 5:00 PM",
-    "horario_sabado": "Sábados: 11:00 AM – 3:00 PM",
-    "horario_domingo": "Domingos: Cerrado"
-  },
-  "redes": {
-    "facebook": "https://facebook.com/cuerposymodulos",
-    "instagram": "https://instagram.com/cuerposymodulos",
-    "youtube": "",
-    "tiktok": ""
-  },
   "nav": {
     "links": [
-      { "label": "Inicio", "href": "#inicio" },
-      { "label": "Productos", "href": "#productos" },
-      { "label": "Beneficios", "href": "#beneficios" },
-      { "label": "Marcas", "href": "#marcas" },
-      { "label": "Testimonios", "href": "#testimonios" },
-      { "label": "FAQ", "href": "#faq" },
-      { "label": "Contacto", "href": "#contacto" }
+      {
+        "label": "Inicio",
+        "href": "#inicio"
+      },
+      {
+        "label": "Productos",
+        "href": "#productos"
+      },
+      {
+        "label": "Beneficios",
+        "href": "#beneficios"
+      },
+      {
+        "label": "Marcas",
+        "href": "#marcas"
+      },
+      {
+        "label": "Testimonios",
+        "href": "#testimonios"
+      },
+      {
+        "label": "FAQ",
+        "href": "#faq"
+      },
+      {
+        "label": "Contacto",
+        "href": "#contacto"
+      }
     ],
     "cta_label": "Cotizar por WhatsApp",
     "cta_mensaje": "Hola, quiero cotizar una pieza para transmisión automática."
   },
-  "hero": {
-    "eyebrow": "Más de 20 años de experiencia",
-    "titulo": "Especialistas en Cuerpos de Válvulas y Electrónica para Transmisiones Automáticas",
-    "subtitulo": "Más de 500 piezas disponibles. Inventario físico real. Envíos a toda la República Mexicana. Garantía de 30 días.",
-    "cta_primario": "Cotizar por WhatsApp",
-    "cta_secundario": "Ver Productos",
-    "cta_mensaje": "Hola, necesito cotizar una pieza para mi transmisión automática. ¿Pueden ayudarme a identificarla?",
-    "imagen": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=1200&h=700&fit=crop&q=80",
-    "imagen_alt": "Cuerpos de válvulas y componentes para transmisiones automáticas"
-  },
-  "trust": [
-    { "numero": "500+", "label": "Piezas Disponibles", "icono": "inventory" },
-    { "numero": "20+", "label": "Años de Experiencia", "icono": "stars" },
-    { "numero": "30", "label": "Días de Garantía", "icono": "verified" },
-    { "numero": "100%", "label": "República Mexicana", "icono": "local_shipping" }
-  ],
-  "productos": {
-    "titulo": "Nuestros Productos",
-    "subtitulo": "Inventario especializado en electrónica y componentes mecánicos para transmisiones automáticas.",
-    "items": [
-      {
-        "nombre": "Cuerpos de Válvulas",
-        "descripcion": "Cuerpos de válvulas originales y de reemplazo para transmisiones automáticas. Compatibles con las principales marcas del mercado.",
-        "incluye": "Cuerpo de válvulas completo, solenoides incluidos según modelo, garantía de funcionamiento",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Cuerpo de válvulas para transmisión automática",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, me interesa un cuerpo de válvulas. ¿Pueden ayudarme a identificar el que necesito para mi vehículo?",
-        "badge": "Más Solicitado"
-      },
-      {
-        "nombre": "Módulos TCM / TCU",
-        "descripcion": "Módulos de control de transmisión programados y listos para instalación. Amplia compatibilidad de aplicaciones.",
-        "incluye": "Módulo TCM/TCU, programación según VIN disponible, prueba de funcionamiento",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1581092160562-40aa08e16b9a?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Módulo TCM TCU para transmisión automática",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, necesito un módulo TCM/TCU para mi transmisión. ¿Pueden ayudarme con la compatibilidad?",
-        "badge": ""
-      },
-      {
-        "nombre": "Sensores de Transmisión",
-        "descripcion": "Sensores de velocidad, posición y temperatura. Amplia gama de aplicaciones para todas las marcas principales.",
-        "incluye": "Sensor OEM compatible, conector incluido, especificaciones técnicas",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Sensores para transmisión automática",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, necesito un sensor para mi transmisión automática. ¿Cómo puedo identificar cuál necesito?",
-        "badge": ""
-      },
-      {
-        "nombre": "Sensores TR",
-        "descripcion": "Sensores de rango de transmisión (PRNDL) para todo tipo de transmisiones automáticas. Alta compatibilidad.",
-        "incluye": "Sensor TR completo, tornillería de fijación, instrucciones básicas",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1504222490345-c075b7098ced?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Sensor TR para transmisión",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, necesito un sensor TR. ¿Tienen disponibilidad para mi vehículo?",
-        "badge": ""
-      },
-      {
-        "nombre": "Arneses de Transmisión",
-        "descripcion": "Arneses internos y externos. Solucionan fallas eléctricas y problemas de conectividad en transmisiones.",
-        "incluye": "Arnés completo, conectores verificados, continuidad garantizada",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Arnés para transmisión automática",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, necesito un arnés para mi transmisión. ¿Me pueden ayudar con la referencia correcta?",
-        "badge": ""
-      },
-      {
-        "nombre": "Solenoides",
-        "descripcion": "Solenoides de cambio, presión y TCC. Stock permanente de las aplicaciones más comunes del mercado.",
-        "incluye": "Solenoides nuevos o OEM, especificación eléctrica verificada",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Solenoides para transmisión automática",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, busco solenoides para mi transmisión. ¿Me pueden indicar disponibilidad y precio?",
-        "badge": "Disponible"
-      },
-      {
-        "nombre": "Componentes Electrónicos",
-        "descripcion": "Electrónica especializada: placas, resistencias, capacitores y transistores para reparación avanzada de transmisiones.",
-        "incluye": "Componentes OEM o equivalentes, especificaciones técnicas completas",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Componentes electrónicos para transmisiones",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, necesito componentes electrónicos para reparar una transmisión. ¿Pueden asesorarme?",
-        "badge": ""
-      },
-      {
-        "nombre": "Electrónica CVT",
-        "descripcion": "Módulos, sensores y arneses para transmisiones de variación continua (CVT). Alta demanda y disponibilidad inmediata.",
-        "incluye": "Módulos, sensores y arneses específicos para CVT, verificación de compatibilidad",
-        "garantia": "30 días",
-        "imagen": "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?w=600&h=400&fit=crop&q=80",
-        "imagen_alt": "Electrónica para transmisión CVT",
-        "cta": "Consultar Disponibilidad",
-        "mensaje_wa": "Hola, necesito electrónica para una transmisión CVT. ¿Tienen disponibilidad?",
-        "badge": "Alta Demanda"
-      }
-    ]
-  },
-  "proceso": {
-    "titulo": "¿Cómo Comprar?",
-    "subtitulo": "Proceso simple para obtener la pieza correcta la primera vez.",
-    "pasos": [
-      {
-        "numero": "01",
-        "titulo": "Identifica tu Pieza",
-        "descripcion": "Envíanos el número de parte, VIN o foto del componente. Te ayudamos a identificar exactamente lo que necesitas."
-      },
-      {
-        "numero": "02",
-        "titulo": "Cotización Inmediata",
-        "descripcion": "Recibe tu cotización por WhatsApp en minutos. Precio, disponibilidad y opciones de envío incluidas."
-      },
-      {
-        "numero": "03",
-        "titulo": "Pago Seguro",
-        "descripcion": "Transferencia SPEI, depósito o efectivo en tienda. Confirmamos tu pedido al acreditarse el pago."
-      },
-      {
-        "numero": "04",
-        "titulo": "Envío Inmediato",
-        "descripcion": "Enviamos el mismo o siguiente día hábil a toda la República Mexicana. Rastreo incluido."
-      }
-    ]
+  "contacto_seccion": {
+    "campo_pieza": "Pieza que necesitas",
+    "boton_enviar": "Enviar por WhatsApp",
+    "campo_mensaje": "Información adicional (número de parte, año, etc.)",
+    "form_titulo": "Envíanos tu Consulta",
+    "campo_vehiculo": "Marca y modelo del vehículo",
+    "subtitulo": "Listos para ayudarte a encontrar la pieza correcta. Contáctanos por WhatsApp o visítanos.",
+    "titulo": "Contáctanos",
+    "campo_nombre": "Tu nombre",
+    "form_subtitulo": "Completa el formulario y abrimos WhatsApp con tu consulta lista."
   },
   "beneficios": {
     "titulo": "¿Por Qué Elegir CuerposyModulos.mx?",
@@ -223,31 +80,244 @@
       }
     ]
   },
+  "proceso": {
+    "titulo": "¿Cómo Comprar?",
+    "subtitulo": "Proceso simple para obtener la pieza correcta la primera vez.",
+    "pasos": [
+      {
+        "numero": "01",
+        "titulo": "Identifica tu Pieza",
+        "descripcion": "Envíanos el número de parte, VIN o foto del componente. Te ayudamos a identificar exactamente lo que necesitas."
+      },
+      {
+        "numero": "02",
+        "titulo": "Cotización Inmediata",
+        "descripcion": "Recibe tu cotización por WhatsApp en minutos. Precio, disponibilidad y opciones de envío incluidas."
+      },
+      {
+        "numero": "03",
+        "titulo": "Pago Seguro",
+        "descripcion": "Transferencia SPEI, depósito o efectivo en tienda. Confirmamos tu pedido al acreditarse el pago."
+      },
+      {
+        "numero": "04",
+        "titulo": "Envío Inmediato",
+        "descripcion": "Enviamos el mismo o siguiente día hábil a toda la República Mexicana. Rastreo incluido."
+      }
+    ]
+  },
   "estadisticas": {
     "mostrar": true,
     "items": [
-      { "numero": "500+", "label": "Piezas en Stock" },
-      { "numero": "20+", "label": "Años de Experiencia" },
-      { "numero": "1,000+", "label": "Clientes Atendidos" },
-      { "numero": "32", "label": "Estados con Envío" }
+      {
+        "numero": "500+",
+        "label": "Piezas en Stock"
+      },
+      {
+        "numero": "20+",
+        "label": "Años de Experiencia"
+      },
+      {
+        "numero": "1,000+",
+        "label": "Clientes Atendidos"
+      },
+      {
+        "numero": "32",
+        "label": "Estados con Envío"
+      }
+    ]
+  },
+  "contacto": {
+    "telefono_link": "tel:+525587926282",
+    "maps_url": "https://maps.app.goo.gl/atsGzeRmdE8ZDXYS9?g_st=ic",
+    "direccion": "Dr. Andrade 400, Buenos Aires, Cuauhtémoc, 06780 Ciudad de México, CDMX",
+    "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.3!2d-99.155!3d19.423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4b73e7af4b%3A0x507de3cf1c0d4f4b!2sDr.%20Andrade%20400%2C%20Buenos%20Aires%2C%20Cuauht%C3%A9moc%2C%2006780%20Ciudad%20de%20M%C3%A9xico!5e0!3m2!1ses!2smx!4v1700000000000",
+    "horario_domingo": "Domingos: Cerrado",
+    "telefono": "+52 55 8792 6282",
+    "horario_sabado": "Sábados: 11:00 AM – 3:00 PM",
+    "horario_semana": "Lunes a Viernes: 10:00 AM – 5:00 PM",
+    "email": "contacto@cuerposymodulos.mx"
+  },
+  "whatsapp": {
+    "numero": "5255879262820",
+    "numero_display": "+52 55 8792 6282",
+    "mensaje_default": "Hola, necesito ayuda para identificar una pieza para mi transmisión automática.",
+    "mensaje_hero": "Hola, me interesa cotizar una pieza para mi transmisión automática. ¿Pueden ayudarme?",
+    "mensaje_contacto": "Hola, me gustaría recibir asesoría sobre piezas para transmisión automática.",
+    "mensaje_flotante": "Hola, necesito información sobre piezas para transmisión automática."
+  },
+  "productos": {
+    "titulo": "Nuestros Productos",
+    "subtitulo": "Inventario especializado en electrónica y componentes mecánicos para transmisiones automáticas.",
+    "items": [
+      {
+        "badge": "Más Solicitado",
+        "garantia": "30 días",
+        "nombre": "Cuerpos de Válvulas",
+        "mensaje_wa": "Hola, me interesa un cuerpo de válvulas. ¿Pueden ayudarme a identificar el que necesito para mi vehículo?",
+        "descripcion": "Cuerpos de válvulas originales y de reemplazo para transmisiones automáticas. Compatibles con las principales marcas del mercado.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop&q=80",
+        "incluye": "Cuerpo de válvulas completo, solenoides incluidos según modelo, garantía de funcionamiento",
+        "imagen_alt": "Cuerpo de válvulas para transmisión automática"
+      },
+      {
+        "badge": "",
+        "garantia": "30 días",
+        "nombre": "Módulos TCM / TCU",
+        "mensaje_wa": "Hola, necesito un módulo TCM/TCU para mi transmisión. ¿Pueden ayudarme con la compatibilidad?",
+        "descripcion": "Módulos de control de transmisión programados y listos para instalación. Amplia compatibilidad de aplicaciones.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1581092160562-40aa08e16b9a?w=600&h=400&fit=crop&q=80",
+        "incluye": "Módulo TCM/TCU, programación según VIN disponible, prueba de funcionamiento",
+        "imagen_alt": "Módulo TCM TCU para transmisión automática"
+      },
+      {
+        "badge": "",
+        "garantia": "30 días",
+        "nombre": "Sensores de Transmisión",
+        "mensaje_wa": "Hola, necesito un sensor para mi transmisión automática. ¿Cómo puedo identificar cuál necesito?",
+        "descripcion": "Sensores de velocidad, posición y temperatura. Amplia gama de aplicaciones para todas las marcas principales.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop&q=80",
+        "incluye": "Sensor OEM compatible, conector incluido, especificaciones técnicas",
+        "imagen_alt": "Sensores para transmisión automática"
+      },
+      {
+        "badge": "",
+        "garantia": "30 días",
+        "nombre": "Sensores TR",
+        "mensaje_wa": "Hola, necesito un sensor TR. ¿Tienen disponibilidad para mi vehículo?",
+        "descripcion": "Sensores de rango de transmisión (PRNDL) para todo tipo de transmisiones automáticas. Alta compatibilidad.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1504222490345-c075b7098ced?w=600&h=400&fit=crop&q=80",
+        "incluye": "Sensor TR completo, tornillería de fijación, instrucciones básicas",
+        "imagen_alt": "Sensor TR para transmisión"
+      },
+      {
+        "badge": "",
+        "garantia": "30 días",
+        "nombre": "Arneses de Transmisión",
+        "mensaje_wa": "Hola, necesito un arnés para mi transmisión. ¿Me pueden ayudar con la referencia correcta?",
+        "descripcion": "Arneses internos y externos. Solucionan fallas eléctricas y problemas de conectividad en transmisiones.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&h=400&fit=crop&q=80",
+        "incluye": "Arnés completo, conectores verificados, continuidad garantizada",
+        "imagen_alt": "Arnés para transmisión automática"
+      },
+      {
+        "badge": "Disponible",
+        "garantia": "30 días",
+        "nombre": "Solenoides",
+        "mensaje_wa": "Hola, busco solenoides para mi transmisión. ¿Me pueden indicar disponibilidad y precio?",
+        "descripcion": "Solenoides de cambio, presión y TCC. Stock permanente de las aplicaciones más comunes del mercado.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=600&h=400&fit=crop&q=80",
+        "incluye": "Solenoides nuevos o OEM, especificación eléctrica verificada",
+        "imagen_alt": "Solenoides para transmisión automática"
+      },
+      {
+        "badge": "",
+        "garantia": "30 días",
+        "nombre": "Componentes Electrónicos",
+        "mensaje_wa": "Hola, necesito componentes electrónicos para reparar una transmisión. ¿Pueden asesorarme?",
+        "descripcion": "Electrónica especializada: placas, resistencias, capacitores y transistores para reparación avanzada de transmisiones.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop&q=80",
+        "incluye": "Componentes OEM o equivalentes, especificaciones técnicas completas",
+        "imagen_alt": "Componentes electrónicos para transmisiones"
+      },
+      {
+        "badge": "Alta Demanda",
+        "garantia": "30 días",
+        "nombre": "Electrónica CVT",
+        "mensaje_wa": "Hola, necesito electrónica para una transmisión CVT. ¿Tienen disponibilidad?",
+        "descripcion": "Módulos, sensores y arneses para transmisiones de variación continua (CVT). Alta demanda y disponibilidad inmediata.",
+        "cta": "Consultar Disponibilidad",
+        "imagen": "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?w=600&h=400&fit=crop&q=80",
+        "incluye": "Módulos, sensores y arneses específicos para CVT, verificación de compatibilidad",
+        "imagen_alt": "Electrónica para transmisión CVT"
+      }
+    ]
+  },
+  "faq": {
+    "titulo": "Preguntas Frecuentes",
+    "subtitulo": "Resolvemos las dudas más comunes sobre nuestros productos y servicios.",
+    "items": [
+      {
+        "pregunta": "¿Cómo sé cuál cuerpo de válvulas necesito?",
+        "respuesta": "Envíanos el número de parte, VIN de tu vehículo, modelo de transmisión o foto del componente dañado. Nuestros especialistas te ayudan a identificar la pieza exacta sin costo adicional."
+      },
+      {
+        "pregunta": "¿Tienen garantía las piezas?",
+        "respuesta": "Sí. Todas las piezas tienen 30 días de garantía o cambio físico, aplicando las políticas de la empresa. Cubre defectos de fabricación y mal funcionamiento bajo condiciones normales de uso."
+      },
+      {
+        "pregunta": "¿Hacen envíos a todo México?",
+        "respuesta": "Sí, enviamos a toda la República Mexicana. CDMX y área metropolitana en 24 horas, norte y sur del país en 24-48 horas. Usamos mensajería exprés con número de rastreo."
+      },
+      {
+        "pregunta": "¿Venden al menudeo y mayoreo?",
+        "respuesta": "Vendemos tanto al menudeo como al mayoreo. Atendemos mecánicos individuales, talleres, refaccionarias y reconstructores. Consulta sobre precios especiales para compradores frecuentes."
+      },
+      {
+        "pregunta": "¿Cómo puedo pagar?",
+        "respuesta": "Aceptamos transferencia SPEI, depósito en Oxxo/7-Eleven, tarjeta y efectivo en tienda. El pedido se confirma al acreditarse el pago."
+      },
+      {
+        "pregunta": "¿Tienen tienda física?",
+        "respuesta": "Sí. Estamos en Dr. Andrade 400, Col. Buenos Aires, Cuauhtémoc, CDMX. Lunes a Viernes 10:00 AM – 5:00 PM, Sábados 11:00 AM – 3:00 PM."
+      },
+      {
+        "pregunta": "¿Qué pasa si la pieza no funciona?",
+        "respuesta": "Contáctanos de inmediato por WhatsApp. Evaluamos cada caso. Si la pieza tiene defecto, la reemplazamos o reembolsamos según políticas. La instalación debe realizarla un técnico calificado."
+      },
+      {
+        "pregunta": "¿Qué marcas cubren?",
+        "respuesta": "Nissan, Ford, Chevrolet, Honda, Mazda, Toyota, Volkswagen, Chrysler, Dodge, Ram, Hyundai, Kia y más. Para aplicaciones poco comunes, consúltanos: tenemos acceso a piezas especiales."
+      }
     ]
   },
   "marcas": {
     "titulo": "Marcas Compatibles",
     "subtitulo": "Piezas para las marcas más importantes del mercado mexicano.",
     "items": [
-      { "nombre": "Nissan" },
-      { "nombre": "Ford" },
-      { "nombre": "Chevrolet" },
-      { "nombre": "Honda" },
-      { "nombre": "Mazda" },
-      { "nombre": "Toyota" },
-      { "nombre": "Volkswagen" },
-      { "nombre": "Chrysler" },
-      { "nombre": "Dodge" },
-      { "nombre": "Hyundai" },
-      { "nombre": "Kia" },
-      { "nombre": "Ram" }
+      {
+        "nombre": "Nissan"
+      },
+      {
+        "nombre": "Ford"
+      },
+      {
+        "nombre": "Chevrolet"
+      },
+      {
+        "nombre": "Honda"
+      },
+      {
+        "nombre": "Mazda"
+      },
+      {
+        "nombre": "Toyota"
+      },
+      {
+        "nombre": "Volkswagen"
+      },
+      {
+        "nombre": "Chrysler"
+      },
+      {
+        "nombre": "Dodge"
+      },
+      {
+        "nombre": "Hyundai"
+      },
+      {
+        "nombre": "Kia"
+      },
+      {
+        "nombre": "Ram"
+      }
     ]
   },
   "testimonios": {
@@ -291,43 +361,37 @@
       }
     ]
   },
-  "faq": {
-    "titulo": "Preguntas Frecuentes",
-    "subtitulo": "Resolvemos las dudas más comunes sobre nuestros productos y servicios.",
-    "items": [
-      {
-        "pregunta": "¿Cómo sé cuál cuerpo de válvulas necesito?",
-        "respuesta": "Envíanos el número de parte, VIN de tu vehículo, modelo de transmisión o foto del componente dañado. Nuestros especialistas te ayudan a identificar la pieza exacta sin costo adicional."
-      },
-      {
-        "pregunta": "¿Tienen garantía las piezas?",
-        "respuesta": "Sí. Todas las piezas tienen 30 días de garantía o cambio físico, aplicando las políticas de la empresa. Cubre defectos de fabricación y mal funcionamiento bajo condiciones normales de uso."
-      },
-      {
-        "pregunta": "¿Hacen envíos a todo México?",
-        "respuesta": "Sí, enviamos a toda la República Mexicana. CDMX y área metropolitana en 24 horas, norte y sur del país en 24-48 horas. Usamos mensajería exprés con número de rastreo."
-      },
-      {
-        "pregunta": "¿Venden al menudeo y mayoreo?",
-        "respuesta": "Vendemos tanto al menudeo como al mayoreo. Atendemos mecánicos individuales, talleres, refaccionarias y reconstructores. Consulta sobre precios especiales para compradores frecuentes."
-      },
-      {
-        "pregunta": "¿Cómo puedo pagar?",
-        "respuesta": "Aceptamos transferencia SPEI, depósito en Oxxo/7-Eleven, tarjeta y efectivo en tienda. El pedido se confirma al acreditarse el pago."
-      },
-      {
-        "pregunta": "¿Tienen tienda física?",
-        "respuesta": "Sí. Estamos en Dr. Andrade 400, Col. Buenos Aires, Cuauhtémoc, CDMX. Lunes a Viernes 10:00 AM – 5:00 PM, Sábados 11:00 AM – 3:00 PM."
-      },
-      {
-        "pregunta": "¿Qué pasa si la pieza no funciona?",
-        "respuesta": "Contáctanos de inmediato por WhatsApp. Evaluamos cada caso. Si la pieza tiene defecto, la reemplazamos o reembolsamos según políticas. La instalación debe realizarla un técnico calificado."
-      },
-      {
-        "pregunta": "¿Qué marcas cubren?",
-        "respuesta": "Nissan, Ford, Chevrolet, Honda, Mazda, Toyota, Volkswagen, Chrysler, Dodge, Ram, Hyundai, Kia y más. Para aplicaciones poco comunes, consúltanos: tenemos acceso a piezas especiales."
-      }
-    ]
+  "trust": [
+    {
+      "numero": "500+",
+      "label": "Piezas Disponibles",
+      "icono": "inventory"
+    },
+    {
+      "numero": "20+",
+      "label": "Años de Experiencia",
+      "icono": "stars"
+    },
+    {
+      "numero": "30",
+      "label": "Días de Garantía",
+      "icono": "verified"
+    },
+    {
+      "numero": "100%",
+      "label": "República Mexicana",
+      "icono": "local_shipping"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Más de 20 años de experiencia",
+    "titulo": "Especialistas en Cuerpos de Válvulas y Electrónica para Transmisiones Automáticas",
+    "subtitulo": "Más de 500 piezas disponibles. Inventario físico real. Envíos a toda la República Mexicana. Garantía de 30 días.",
+    "cta_primario": "Cotizar por WhatsApp",
+    "cta_secundario": "Ver Productos",
+    "cta_mensaje": "Hola, necesito cotizar una pieza para mi transmisión automática. ¿Pueden ayudarme a identificarla?",
+    "imagen": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=1200&h=700&fit=crop&q=80",
+    "imagen_alt": "Cuerpos de válvulas y componentes para transmisiones automáticas"
   },
   "cta_banner": {
     "titulo": "¿No encuentras tu pieza?",
@@ -335,22 +399,31 @@
     "cta": "Enviar Foto por WhatsApp",
     "mensaje_wa": "Hola, voy a enviarles una foto del componente que necesito para que me ayuden a identificarlo."
   },
-  "contacto_seccion": {
-    "titulo": "Contáctanos",
-    "subtitulo": "Listos para ayudarte a encontrar la pieza correcta. Contáctanos por WhatsApp o visítanos.",
-    "form_titulo": "Envíanos tu Consulta",
-    "form_subtitulo": "Completa el formulario y abrimos WhatsApp con tu consulta lista.",
-    "campo_nombre": "Tu nombre",
-    "campo_vehiculo": "Marca y modelo del vehículo",
-    "campo_pieza": "Pieza que necesitas",
-    "campo_mensaje": "Información adicional (número de parte, año, etc.)",
-    "boton_enviar": "Enviar por WhatsApp"
-  },
   "footer": {
     "descripcion": "Especialistas en electrónica y componentes mecánicos para transmisiones automáticas. Más de 20 años de experiencia, inventario físico real y envíos a toda la República Mexicana.",
     "copyright": "© 2025 CuerposyModulos.mx. Todos los derechos reservados.",
     "links_rapidos_titulo": "Acceso Rápido",
     "contacto_titulo": "Contacto",
     "redes_titulo": "Síguenos"
+  },
+  "marca": {
+    "nombre": "CuerposyModulos.mx",
+    "tagline": "Especialistas en Electrónica para Transmisiones Automáticas",
+    "logo_texto": "CuerposyModulos",
+    "logo_sufijo": ".mx",
+    "anios_experiencia": "20+",
+    "ciudad": "Ciudad de México"
+  },
+  "seo": {
+    "title": "Cuerpos y Módulos para Transmisiones Automáticas | CuerposyModulos.mx",
+    "description": "Especialistas en cuerpos de válvulas, módulos, sensores, arneses y electrónica para transmisiones automáticas. Más de 500 piezas disponibles. Envíos a todo México.",
+    "keywords": "cuerpo de válvulas, módulo tcm, módulo tcu, sensores de transmisión, sensor tr, arnés de transmisión, electrónica para transmisión, refacciones transmisión automática",
+    "og_image": "/images/6ded201e-b4e0-4eba-bdc9-71f96fa3b673.png"
+  },
+  "redes": {
+    "facebook": "https://facebook.com/cuerposymodulos",
+    "instagram": "https://instagram.com/cuerposymodulos",
+    "youtube": "",
+    "tiktok": ""
   }
 }
