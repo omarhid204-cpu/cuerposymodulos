@@ -157,7 +157,7 @@
         "mensaje_wa": "Hola, me interesa un cuerpo de válvulas. ¿Pueden ayudarme a identificar el que necesito para mi vehículo?",
         "descripcion": "Cuerpos de válvulas originales y de reemplazo para transmisiones automáticas. Compatibles con las principales marcas del mercado.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop&q=80",
+        "imagen": "/images/chatgpt-image-23-mar-2026-04_49_21-p.m..png",
         "incluye": "Cuerpo de válvulas completo, solenoides incluidos según modelo, garantía de funcionamiento",
         "imagen_alt": "Cuerpo de válvulas para transmisión automática"
       },
@@ -168,7 +168,7 @@
         "mensaje_wa": "Hola, necesito un módulo TCM/TCU para mi transmisión. ¿Pueden ayudarme con la compatibilidad?",
         "descripcion": "Módulos de control de transmisión programados y listos para instalación. Amplia compatibilidad de aplicaciones.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "https://images.unsplash.com/photo-1581092160562-40aa08e16b9a?w=600&h=400&fit=crop&q=80",
+        "imagen": "/images/24aaf0ec-c472-4512-a831-278abd04a505.png",
         "incluye": "Módulo TCM/TCU, programación según VIN disponible, prueba de funcionamiento",
         "imagen_alt": "Módulo TCM TCU para transmisión automática"
       },
@@ -179,7 +179,7 @@
         "mensaje_wa": "Hola, necesito un sensor para mi transmisión automática. ¿Cómo puedo identificar cuál necesito?",
         "descripcion": "Sensores de velocidad, posición y temperatura. Amplia gama de aplicaciones para todas las marcas principales.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop&q=80",
+        "imagen": "/images/15d9e6c7-0611-4620-80a9-0c8f98c246cc.png",
         "incluye": "Sensor OEM compatible, conector incluido, especificaciones técnicas",
         "imagen_alt": "Sensores para transmisión automática"
       },
