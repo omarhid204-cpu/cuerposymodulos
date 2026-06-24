@@ -190,7 +190,7 @@
         "mensaje_wa": "Hola, necesito un sensor TR. ¿Tienen disponibilidad para mi vehículo?",
         "descripcion": "Sensores de rango de transmisión (PRNDL) para todo tipo de transmisiones automáticas. Alta compatibilidad.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "https://images.unsplash.com/photo-1504222490345-c075b7098ced?w=600&h=400&fit=crop&q=80",
+        "imagen": "/images/f221a9fa-380f-4fd3-8bbb-ec959c0f4737.png",
         "incluye": "Sensor TR completo, tornillería de fijación, instrucciones básicas",
         "imagen_alt": "Sensor TR para transmisión"
       },
@@ -201,7 +201,7 @@
         "mensaje_wa": "Hola, necesito un arnés para mi transmisión. ¿Me pueden ayudar con la referencia correcta?",
         "descripcion": "Arneses internos y externos. Solucionan fallas eléctricas y problemas de conectividad en transmisiones.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&h=400&fit=crop&q=80",
+        "imagen": "/images/3e59c80d-ffa3-4937-8887-95946aead5c8.png",
         "incluye": "Arnés completo, conectores verificados, continuidad garantizada",
         "imagen_alt": "Arnés para transmisión automática"
       },
