@@ -215,28 +215,6 @@
         "imagen": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=600&h=400&fit=crop&q=80",
         "incluye": "Solenoides nuevos o OEM, especificación eléctrica verificada",
         "imagen_alt": "Solenoides para transmisión automática"
-      },
-      {
-        "badge": "",
-        "garantia": "30 días",
-        "nombre": "Componentes Electrónicos",
-        "mensaje_wa": "Hola, necesito componentes electrónicos para reparar una transmisión. ¿Pueden asesorarme?",
-        "descripcion": "Electrónica especializada: placas, resistencias, capacitores y transistores para reparación avanzada de transmisiones.",
-        "cta": "Consultar Disponibilidad",
-        "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop&q=80",
-        "incluye": "Componentes OEM o equivalentes, especificaciones técnicas completas",
-        "imagen_alt": "Componentes electrónicos para transmisiones"
-      },
-      {
-        "badge": "Alta Demanda",
-        "garantia": "30 días",
-        "nombre": "Electrónica CVT",
-        "mensaje_wa": "Hola, necesito electrónica para una transmisión CVT. ¿Tienen disponibilidad?",
-        "descripcion": "Módulos, sensores y arneses para transmisiones de variación continua (CVT). Alta demanda y disponibilidad inmediata.",
-        "cta": "Consultar Disponibilidad",
-        "imagen": "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?w=600&h=400&fit=crop&q=80",
-        "incluye": "Módulos, sensores y arneses específicos para CVT, verificación de compatibilidad",
-        "imagen_alt": "Electrónica para transmisión CVT"
       }
     ]
   },
