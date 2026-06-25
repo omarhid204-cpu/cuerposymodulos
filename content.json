@@ -307,21 +307,21 @@
         "cargo": "Taller de Transmisiones, CDMX",
         "texto": "Llevo más de 5 años comprando con ellos. Siempre tienen lo que busco. La asesoría técnica es invaluable para mi negocio.",
         "estrellas": 5,
-        "imagen": "https://i.pravatar.cc/80?img=11"
+        "imagen": "/images/b62b6005-a997-4e36-96e5-79f6a0e1072c.png"
       },
       {
         "nombre": "Raúl Pérez",
         "cargo": "Mecánico Especialista, Guadalajara",
         "texto": "Pedí un cuerpo de válvulas para una Nissan y llegó en 24 horas. Pieza perfecta, sin problemas. El envío fue muy rápido.",
         "estrellas": 5,
-        "imagen": "https://i.pravatar.cc/80?img=22"
+        "imagen": "/images/1dfefd7c-2e6f-4bba-89bf-2bbc0550f1b8.png"
       },
       {
         "nombre": "Laura Gómez",
         "cargo": "Refaccionaria AutoPro, Monterrey",
         "texto": "Excelente proveedor. Tenemos cuenta con ellos para surtir clientes. Precios competitivos y garantía que da tranquilidad.",
         "estrellas": 5,
-        "imagen": "https://i.pravatar.cc/80?img=44"
+        "imagen": "/images/f4ec3699-a484-43f9-878f-fb86d17d90a3.png"
       }
     ]
   },
