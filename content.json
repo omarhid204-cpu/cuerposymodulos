@@ -157,7 +157,7 @@
         "mensaje_wa": "Hola, me interesa un cuerpo de válvulas. ¿Pueden ayudarme a identificar el que necesito para mi vehículo?",
         "descripcion": "Cuerpos de válvulas originales y de reemplazo para transmisiones automáticas. Compatibles con las principales marcas del mercado.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "/images/chatgpt-image-23-mar-2026-04_49_21-p.m..png",
+        "imagen": "/images/cuerpos-valuvla.webp",
         "incluye": "Cuerpo de válvulas completo, solenoides incluidos según modelo, garantía de funcionamiento",
         "imagen_alt": "Cuerpo de válvulas para transmisión automática"
       },
@@ -168,7 +168,7 @@
         "mensaje_wa": "Hola, necesito un módulo TCM/TCU para mi transmisión. ¿Pueden ayudarme con la compatibilidad?",
         "descripcion": "Módulos de control de transmisión programados y listos para instalación. Amplia compatibilidad de aplicaciones.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "/images/24aaf0ec-c472-4512-a831-278abd04a505.png",
+        "imagen": "/images/modulo-tcm.webp",
         "incluye": "Módulo TCM/TCU, programación según VIN disponible, prueba de funcionamiento",
         "imagen_alt": "Módulo TCM TCU para transmisión automática"
       },
@@ -190,7 +190,7 @@
         "mensaje_wa": "Hola, necesito un sensor TR. ¿Tienen disponibilidad para mi vehículo?",
         "descripcion": "Sensores de rango de transmisión (PRNDL) para todo tipo de transmisiones automáticas. Alta compatibilidad.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "/images/f221a9fa-380f-4fd3-8bbb-ec959c0f4737.png",
+        "imagen": "/images/sensores-tr.webp",
         "incluye": "Sensor TR completo, tornillería de fijación, instrucciones básicas",
         "imagen_alt": "Sensor TR para transmisión"
       },
@@ -201,7 +201,7 @@
         "mensaje_wa": "Hola, necesito un arnés para mi transmisión. ¿Me pueden ayudar con la referencia correcta?",
         "descripcion": "Arneses internos y externos. Solucionan fallas eléctricas y problemas de conectividad en transmisiones.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "/images/3e59c80d-ffa3-4937-8887-95946aead5c8.png",
+        "imagen": "/images/arneses.webp",
         "incluye": "Arnés completo, conectores verificados, continuidad garantizada",
         "imagen_alt": "Arnés para transmisión automática"
       },
@@ -212,7 +212,7 @@
         "mensaje_wa": "Hola, busco solenoides para mi transmisión. ¿Me pueden indicar disponibilidad y precio?",
         "descripcion": "Solenoides de cambio, presión y TCC. Stock permanente de las aplicaciones más comunes del mercado.",
         "cta": "Consultar Disponibilidad",
-        "imagen": "/images/83c5a5bf-0b68-4129-a8a7-18dcdf243260.png",
+        "imagen": "/images/selenoides.webp",
         "incluye": "Solenoides nuevos o OEM, especificación eléctrica verificada",
         "imagen_alt": "Solenoides para transmisión automática"
       }
