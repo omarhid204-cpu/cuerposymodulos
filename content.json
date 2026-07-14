@@ -354,7 +354,7 @@
     "cta_primario": "Cotizar por WhatsApp",
     "cta_secundario": "Ver Productos",
     "cta_mensaje": "Hola, necesito cotizar una pieza para mi transmisión automática. ¿Pueden ayudarme a identificarla?",
-    "imagen": "/images/6ded201e-b4e0-4eba-bdc9-71f96fa3b673.png",
+    "imagen": "/images/portada.webp",
     "imagen_alt": "Cuerpos de válvulas y componentes para transmisiones automáticas"
   },
   "cta_banner": {
@@ -382,7 +382,7 @@
     "title": "Cuerpos y Módulos para Transmisiones Automáticas | CuerposyModulos.mx",
     "description": "Especialistas en cuerpos de válvulas, módulos, sensores, arneses y electrónica para transmisiones automáticas. Más de 500 piezas disponibles. Envíos a todo México.",
     "keywords": "cuerpo de válvulas, módulo tcm, módulo tcu, sensores de transmisión, sensor tr, arnés de transmisión, electrónica para transmisión, refacciones transmisión automática",
-    "og_image": "/images/6ded201e-b4e0-4eba-bdc9-71f96fa3b673.png"
+    "og_image": "/images/portada.webp"
   },
   "redes": {
     "facebook": "",
