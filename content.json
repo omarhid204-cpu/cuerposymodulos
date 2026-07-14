@@ -136,7 +136,7 @@
     "telefono": "+52 55 8792 6282",
     "horario_sabado": "Sábados: 11:00 AM – 3:00 PM",
     "horario_semana": "Lunes a Viernes: 10:00 AM – 5:00 PM",
-    "email": "contacto@cuerposymodulos.mx"
+    "email": "contacto@cuerposymodulos.com"
   },
   "whatsapp": {
     "numero": "525587926282",
@@ -371,7 +371,7 @@
     "redes_titulo": "Síguenos"
   },
   "marca": {
-    "nombre": "CuerposyModulos.mx",
+    "nombre": "CuerposyModulos.com",
     "tagline": "Especialistas en Electrónica para Transmisiones Automáticas",
     "logo_texto": "CuerposyModulos",
     "logo_sufijo": ".mx",
@@ -379,7 +379,7 @@
     "ciudad": "Ciudad de México"
   },
   "seo": {
-    "title": "Cuerpos y Módulos para Transmisiones Automáticas | CuerposyModulos.mx",
+    "title": "Cuerpos y Módulos para Transmisiones Automáticas | CuerposyModulos.com",
     "description": "Especialistas en cuerpos de válvulas, módulos, sensores, arneses y electrónica para transmisiones automáticas. Más de 500 piezas disponibles. Envíos a todo México.",
     "keywords": "cuerpo de válvulas, módulo tcm, módulo tcu, sensores de transmisión, sensor tr, arnés de transmisión, electrónica para transmisión, refacciones transmisión automática",
     "og_image": "/images/portada.webp"
